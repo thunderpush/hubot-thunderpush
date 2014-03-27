@@ -1,0 +1,42 @@
+{
+  "name": "hubot-thunderpush",
+  "description": "A hubot script for thunderpush",
+  "version": "0.9.1",
+  "author": "Ryan Schumacher <ryan@38pages.com",
+  "licenses": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "thunderpush"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thunderpush/hubot-thunderpush.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thunderpush/hubot-thunderpush/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "hubot": "*",
+    "hubot-scripts": "*",
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "engines": {
+    "node": ">=0.4.7"
+  },
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
