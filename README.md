@@ -72,6 +72,8 @@ hubot thunder disconnect @<user>
 
 ## Links
 
-GitHub: (https://github.com/thunderpush/hubot-thunderpush)[https://github.com/thunderpush/hubot-thunderpush]
-npmjs: (https://npmjs.org/package/hubot-thunderpush)[https://npmjs.org/package/hubot-thunderpush]
-Thunderpush: (https://github.com/thunderpush/thunderpush)[https://github.com/thunderpush/thunderpush]
+GitHub: https://github.com/thunderpush/hubot-thunderpush
+
+npmjs: https://npmjs.org/package/hubot-thunderpush
+
+Thunderpush: https://github.com/thunderpush/thunderpush

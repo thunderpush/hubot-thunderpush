@@ -1,7 +1,7 @@
 {
   "name": "hubot-thunderpush",
   "description": "A hubot script for thunderpush",
-  "version": "0.0.1",
+  "version": "0.9.1",
   "author": "Ryan Schumacher <ryan@38pages.com",
   "licenses": "MIT",
   "keywords": [
