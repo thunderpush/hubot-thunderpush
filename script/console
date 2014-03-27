@@ -1,0 +1,13 @@
+#!/bin/bash
+
+## This script is for testing a local hubot instance
+
+# bootstrap environment
+source script/bootstrap
+
+export PORT="8081"
+export HUBOT_THUNDERPUSH_URL="http://localhost:8082"
+export HUBOT_THUNDERPUSH_KEY="key"
+export HUBOT_THUNDERPUSH_SECRET="secret"
+
+hubot -r ./src/
